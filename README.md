@@ -28,7 +28,6 @@ cd EDA_israel-palestine-conflict
 - **Descriptive Statistics**: Overview of key metrics (casualties, attacks, etc.).
 - **Time Series Analysis**: Trends over time, major escalation points.
 - **Geospatial Analysis**: Mapping key events and affected areas.
-- **Sentiment Analysis**: Media and political discourse trends.
 
 ## Results
 Summary of findings will be provided in the repository, along with visualizations and key insights.
