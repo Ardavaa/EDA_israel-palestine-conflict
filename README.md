@@ -33,7 +33,7 @@ cd EDA_israel-palestine-conflict
 ## Results
 Summary of findings will be provided in the repository, along with visualizations and key insights.
 
-##Contributing
+## Contributing
 Contributions are welcome! Feel free to submit issues, pull requests, or suggestions for additional analyses.
 
 ## License
